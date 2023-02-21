@@ -1,0 +1,4 @@
+ssh username@192.168.1.45 -p 8080
+password: password
+
+añadir en la clase importar
